@@ -8,9 +8,9 @@
 - 具备记忆能力
 - API可嵌入IM中
 - 具备可扩展性
-- 具备鲜明个性
+- 具备鲜明个性,而非千人一面
 项目技术:
 - API层开发（python/fastApi）
 - LLM+BOT开发（openai+langchain+telegram）
-- 语音功能（AI for TTS）
+- 语音功能（Barker/TTS/whisper）
 - 记忆与学习（vector database） 
