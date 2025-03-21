@@ -108,3 +108,8 @@ llm = OpenAI(
 msg = llm.predict(pm)
 print(msg)
 ```
+
+- 字符串模板-promptTemplate
+- 对话模板-ChatPromptTemplate
+- 自定义模板
+- F-string，jinji2与组合模板
