@@ -31,5 +31,19 @@
 - Langchain的核心部件的LLM的使用
 # 模型IO： 大语言模型的交互接口
 
+![image](https://github.com/user-attachments/assets/a4e95818-4239-4bd2-b9c3-bb1cf2ef3353)
 
+# prompts模板：更加高级和灵活的提示
+
+![image](https://github.com/user-attachments/assets/0f2dfade-e00b-468c-b1b7-904ef94fb68c)
+
+提示词模板
+
+1.将提示词提炼成模板
+
+2.实现提示词的复用，版本管理，动态变化等等。
+
+
+-  引入包，PromptTemplate
+-  
 
