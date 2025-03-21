@@ -138,5 +138,7 @@ pipeline_prompt = PipelinePromptTemplate(final_prompt=full_prompt, pipeline_prom
     - from langchain.prompts import load_prompt
     - prompt =load_prompt("simple_prompt.yaml")
       
+# 兼容窗口的示例选择器
+![image](https://github.com/user-attachments/assets/c438ae3e-7598-458e-88be-9937b00eab04)
 
 
