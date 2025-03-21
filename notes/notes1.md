@@ -20,3 +20,16 @@
 - 【注意下方链接失效，访问http://149.28.145.211-old-image是前7个演示，new-image是后面的演示】
 - 第一个实例http://149.28.145.211:8888/notebooks/(1)%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AE%9E%E4%BE%8B.ipynb
 - prompt模板http://149.28.145.211:8888/notebooks/(2)prompt%E6%A8%A1%E6%9D%BF.ipynb 
+
+- Langchain是大模型的粘合剂，是AI应用开发的重要框架
+- Langchain是能连接大模型并且为模型增强各种能力的
+- Langchain适用于目前的AI应用开发，代理机器人的搭建，
+ 
+# 打造自己的prompt
+- 打造io接口的介绍
+- 基于prompts模板的输入工程
+- Langchain的核心部件的LLM的使用
+# 模型IO： 大语言模型的交互接口
+
+
+
